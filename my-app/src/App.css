@@ -1,0 +1,48 @@
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shopping-card {
+  justify-content: space-between;
+  background-color: rgb(229, 5, 5);
+  padding: 20px 30px;
+}
+
+.product-item {
+  padding: 20px;
+}
+
+.icon{
+  background-color:rgb(229, 5, 5);
+  border:0;
+  font-size: 30px;
+  padding:0;
+}
+
+.logo{
+  font-size: x-large;
+  
+}
+
+.add-btn{
+  background-color: rgb(229, 5, 5);
+  border:0;
+  border-radius:5px;
+  height:40px;
+  width:405px;
+  font-size: 20px;
+  border-radius: 50px;
+}
+
+body{
+  background-color: rgb(250, 104, 104);
+}
+
+.desc{
+  font-style: italic;
+  font-size: 20px;
+}
+.img{
+   border-radius: 50px;
+}
